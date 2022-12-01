@@ -1,0 +1,22 @@
+﻿  Cara.cpp
+  main.cpp
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Lector.h(86,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Lector.h(88,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Lector.h(90,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Lector.h(102,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Matrices.h(39,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Matrices.h(40,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Matrices.h(41,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Matrices.h(42,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Matrices.h(48,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(13,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(23,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(27,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(47,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(50,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\main.cpp(67,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Puntos.cpp
+  Vertice.cpp
+  Generando código...
+  Final este se entrega.vcxproj -> C:\Users\Rita Monreal\Desktop\Nueva carpeta\Final este se entrega\Debug\Final este se entrega.exe
